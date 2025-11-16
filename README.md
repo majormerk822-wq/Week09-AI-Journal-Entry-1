@@ -1,1 +1,2 @@
 # Week09-AI-Journal-Entry-1
+This week I just tried different AI's like chat GPT, Google Gemini, Deep seek AI, and Grox. I used one part of this weeks exercise and put it into each of the AI's I mentioned to see if they would give me different outcomes, which it gave multiple different answers. Deep seek gave the most detailed step-by-step walk through which I would say was the easiest to understand and might start using is it more often.
